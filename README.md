@@ -16,8 +16,8 @@ mousy <x_max> <y_max> -s <seconds>
 ```
 All arguments are optional. 
 
-x_max defaults to 1200
-y_max defaults to 800
-seconds default to 3600 (1hr)
+- x_max defaults to 1200
+- y_max defaults to 800
+- seconds default to 3600 (1hr)
 
-stop with CTRL-C if done befor
+Stop with CTRL-C if done before
