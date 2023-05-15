@@ -2,7 +2,7 @@
 name = "mousy"
 version = "0.1.0"
 edition = "2021"
-author= "Bjoern Holste"
+author= "Student1304"
 about = "Moves the mouse to random coordinates for a given time"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
